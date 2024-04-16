@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nMAd96IwxX1u1s+lRidd+CnEPjRh6ds6Ck3r5HAMpYCImfQtWnBkeBuVXxRE1iyC4R/IY/w2l4KDGB8lVu97Pw==",
+  "dgSpecHash": "PM4icuUNjB/BNdy3x6Rwje/ktJWIveue3FB3wexg34TJihVw/JEUhIVp/ZpA2mMwHYLGiDF/Qk5+jeibgRtWuA==",
   "success": true,
-  "projectFilePath": "F:\\computer science\\iti\\Final Project\\project\\WebApplication123\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "F:\\computer science\\ITIFinalProjectTeam3-BookLogist\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
